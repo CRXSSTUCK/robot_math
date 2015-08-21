@@ -1,6 +1,6 @@
 # Robot Math
 
-**(Equasions for robots)**
+**(Equations for robots)**
 
 ## [Documentation](https://github.com/gunthercox/robot_math)
 This project is thoroughly documented internally.  
